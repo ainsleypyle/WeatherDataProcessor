@@ -1,0 +1,10 @@
+{"type": "sample", "stationName": "Foster Weather Station", "timestamp": 1672531200000, "temperature": 37.1}
+{"type": "sample", "stationName": "Foster Weather Station", "timestamp": 1672531201000, "temperature": 39.0}
+{"type": "sample", "stationName": "Montrose Beach", "timestamp": 1672531202000, "temperature": 36.5}
+{"type": "sample", "stationName": "Montrose Beach", "timestamp": 1672531203000, "temperature": 38.2}
+{"type": "control", "command": "snapshot"}
+{"type": "control", "command": "reset"}
+{"type": "control", "command": "snapshot"}
+{"type": "sample", "stationName": "Foster Weather Station", "timestamp": 1672531204000, "temperature": 35.0}
+{"type": "sample", "stationName": "Montrose Beach", "timestamp": 1672531205000, "temperature": 34.0}
+{"type": "control", "command": "snapshot"}
